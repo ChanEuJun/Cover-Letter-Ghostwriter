@@ -2,6 +2,8 @@
 
 I created this to help me tailor cover letters to companies I really, really want to get into - the prompt uses a conversational method to gather context about your experiences, and puts it in an effective, killer format. I spend around 10 minutes feeding it context and another 10 editing the final product to make it more genuine and to add touches of my own personality.
 
+It's inspired by this old reddit post here: https://www.reddit.com/r/jobs/comments/te5bpe/my_guide_to_writing_a_killer_cover_letter/
+
 You can install cover_letter_ghostwriter.md and place it in the project files of ChatGPT, Claude, a Gemini Gem etc. Or just copy and paste it in any LLM. 
 
 Now go bang out 10 more applications!
